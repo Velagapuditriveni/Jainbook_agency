@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/jaxb-impl-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/testng-6.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/triv/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/Desktop/file-utils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/triveni/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="commons-io"/>
+			<attribute name="maven.artifactId" value="commons-io"/>
+			<attribute name="maven.version" value="2.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
